@@ -1,0 +1,22 @@
+[
+  {
+    "img": "./cat-2.jpg",
+    "name": "Gloss braids",
+    "price": "#2200"
+  },
+  {
+    "img": "./cat-8.jpg",
+    "name": "Nice Braids",
+    "price": "#3000"
+  },
+  {
+    "img": "./cat-3.jpg",
+    "name": "Bone Straight",
+    "price": "#5000"
+  },
+  {
+    "img": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSQCInPgW7Z_rWjCdHGzLigZpygl2ZEPRLqjTh4Jj9E2_gFcDg2Fzg9vplje-AOxwhm",
+    "name": "Coca-Cola",
+    "price": "#500"
+  }
+]
